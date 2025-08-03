@@ -1,0 +1,12 @@
+.promo__section {
+  background-color: #724a8f;
+  padding: 1rem;
+  border-radius: 1rem;
+  text-align: center;
+  color: #fff;
+  margin-bottom: 1rem;
+}
+
+.promo__span {
+  font-weight: bold;
+}

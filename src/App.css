@@ -1,0 +1,38 @@
+.app__section .app__main {
+  padding: 2rem;
+  width: 100%;
+}
+
+.app__title {
+  font-size: 2rem;
+  color: #fff;
+  font-weight: bold;
+  text-align: center;
+}
+
+.app__texto {
+  font-size: 1rem;
+  color: #fff;
+  text-align: center;
+  line-height: 1.5rem;
+}
+
+@media (min-width: 38rem) {
+  .app__section {
+    width: 50%;
+  }
+  .app__main {
+    width: 50%;
+  }
+  .app__title {
+    font-size: 4rem;
+    font-weight: bold;
+    text-align: left;
+  }
+
+  .app__texto {
+    font-size: 1.3rem;
+
+    text-align: justify;
+  }
+}
